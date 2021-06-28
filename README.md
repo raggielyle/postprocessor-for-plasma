@@ -11,7 +11,7 @@ Instructions
 2. Create your ngc file with dfx2gcode
 3. Copy the file  named 4cncplasma1.2B.sh to the folder where your ngc file is
 4. Change the permissions of the file 4cncplasma1.2B.sh to executable
-5. type the command ./4cncplasma1.2B.sh and press enter
+5. In terminal type the command ./4cncplasma1.2B.sh and press enter
 7. Follow the prompts to select the file, set cut height, pierce height, pierce delay, safe height for rapids, z axis offset after probe, feed rate, and pauses both before and after each cut.
 8. Your original ngc file will remain intact and the processed file will contain the word "plasma" at the end
 
