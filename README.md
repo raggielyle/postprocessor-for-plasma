@@ -1,6 +1,7 @@
 # postprocessor-for-plasma
 For use with dfx2gcode
-This is a bash script. Windows users will need to enable bash.
+This is a bash script. 
+Windows users will need to enable bash.
 
 Explanation
 This script edits files created with dfx2gcode to make them "plasma friendly". 
